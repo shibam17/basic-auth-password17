@@ -17,7 +17,7 @@ export default function Index() {
           </p>
           <p>
             This role helps me connect with people and allows users to
-            understand the product effectively. It’s a deep, consultative
+            understand the product effectively. It&apos;s a deep, consultative
             position that can create long-lasting relationships and advocacy.
           </p>
         </li>
@@ -51,8 +51,8 @@ export default function Index() {
           </p>
           <p>
             As a DevRel professional, training new support teammates means
-            ensuring they align with the brand's mission and understand
-            developers’ needs. It helps scale our reach through the team,
+            ensuring they align with the brand&apos;s mission and understand
+            developers&apos; needs. It helps scale our reach through the team,
             improving the overall user experience and reinforcing a
             developer-centric culture.
           </p>
@@ -96,7 +96,8 @@ export default function Index() {
         </li>
         <li>
           <p className='font-semibold'>
-            3 : Dig through logs to troubleshoot a customer's broken project
+            3 : Dig through logs to troubleshoot a customer&apos;s broken
+            project
           </p>
           <p>
             While troubleshooting is a critical skill, digging through logs can
@@ -114,7 +115,7 @@ export default function Index() {
             This can be a bit monotonous. Going through hundreds of tickets
             requires a lot of focus, and it can sometimes feel disconnected from
             direct user interactions. This task can lack the immediate
-            satisfaction of resolving a customer’s issue.
+            satisfaction of resolving a customer&apos;s issue.
           </p>
         </li>
         <li>
@@ -163,12 +164,12 @@ export default function Index() {
         </ul>
         <p className='font-semibold'>Use case</p>
         <p>
-          They're great for tasks like dynamic content generation, personalized
-          user experiences, real-time interactions, and API routing. You can
-          even specify regions for database queries to minimize delays. With
-          support for WebAssembly, they handle complex computations quickly,
-          making them ideal for efficient, cost-effective, and global-scale
-          projects.
+          They&apos;re great for tasks like dynamic content generation,
+          personalized user experiences, real-time interactions, and API
+          routing. You can even specify regions for database queries to minimize
+          delays. With support for WebAssembly, they handle complex computations
+          quickly, making them ideal for efficient, cost-effective, and
+          global-scale projects.
         </p>
         <p className='font-semibold'>Serverless Functions</p>
         <p className='font-semibold'>Pros</p>
@@ -214,8 +215,8 @@ export default function Index() {
             authentication to security and bot protection.
           </li>
           <li>
-            Runs on Vercel’s global edge network, reducing latency and improving
-            performance for end users.
+            Runs on Vercel&apos;s global edge network, reducing latency and
+            improving performance for end users.
           </li>
         </ul>
         <p className='font-semibold'>Cons</p>
@@ -230,9 +231,10 @@ export default function Index() {
         <p>
           Edge Middleware is ideal for applications requiring real-time
           personalization or security, such as e-commerce websites tailoring
-          user experiences or websites needing bot protection. It's also useful
-          for scenarios like A/B testing at the edge, improving performance by
-          quickly adapting responses based on user data without backend delays.
+          user experiences or websites needing bot protection. It&apos;s also
+          useful for scenarios like A/B testing at the edge, improving
+          performance by quickly adapting responses based on user data without
+          backend delays.
         </p>
       </div>
       <Text variant='h2' className='mb-6 text-xl font-semibold'>
@@ -244,8 +246,8 @@ export default function Index() {
         In a previous support role, I dealt with a CORS (Cross-Origin Resource
         Sharing) issue when a user was trying to download an image from another
         domain using the cloud platform. Every time they clicked the download
-        button, they’d get a CORS error, which blocked the download. To fix it,
-        I recommended using a proxy URL. This proxy essentially acts as a
+        button, they&apos;d get a CORS error, which blocked the download. To fix
+        it, I recommended using a proxy URL. This proxy essentially acts as a
         middleman to bypass CORS restrictions. I guided the user to implement
         this solution using a small JavaScript code snippet to send the image
         request through the proxy. We then linked the output of that code to the
@@ -260,17 +262,17 @@ export default function Index() {
         Exercise 4: What do you want to learn or do more of at work?
       </Text>
       <p className='mb-4'>
-        At work, I'm eager to engage with others and foster a strong sense of
-        community. I want to be someone who actively supports and responds to
-        people's ideas and projects, helping to cultivate an environment where
-        creativity can flourish. My goal is to be the face of the brand.
+        At work, I&apos;m eager to engage with others and foster a strong sense
+        of community. I want to be someone who actively supports and responds to
+        people&apos;s ideas and projects, helping to cultivate an environment
+        where creativity can flourish. My goal is to be the face of the brand.
       </p>
       <p className='mb-4'>
-        Additionally, I'm keen on polishing my presentation skills. I believe
-        that effective communication is essential for showcasing our work and
-        connecting with our audience. I want to learn more about how to convey
-        ideas clearly and confidently, ensuring that our brand message resonates
-        well with both clients and the community.
+        Additionally, I&apos;m keen on polishing my presentation skills. I
+        believe that effective communication is essential for showcasing our
+        work and connecting with our audience. I want to learn more about how to
+        convey ideas clearly and confidently, ensuring that our brand message
+        resonates well with both clients and the community.
       </p>
       <Text variant='h2' className='mb-6 text-xl font-semibold'>
         Exercise 5: A customer writes in requesting help with a build issue but
@@ -291,10 +293,10 @@ export default function Index() {
         <li>
           <p className='font-semibold'>Research:</p>
           <p>
-            While waiting for the customer's response, I would start researching
-            the framework: Look for official documentation, FAQs, or community
-            forums. Search for similar issues in the framework's issue tracker
-            or community discussions.
+            While waiting for the customer&apos;s response, I would start
+            researching the framework: Look for official documentation, FAQs, or
+            community forums. Search for similar issues in the framework&apos;s
+            issue tracker or community discussions.
           </p>
         </li>
         <li>
@@ -318,33 +320,33 @@ export default function Index() {
       </ul>
       <Text variant='h2' className='mb-6 text-xl font-semibold'>
         Exercise 6: The customer from question 5 replies to your response with
-        the below: “I’m so frustrated. I’ve been trying to make this work for
-        hours and I just can’t figure it out. It must be a platform issue so
-        just fix it for me instead of asking me questions.” Please write a
-        response to the customer. Add information about your decision-making
-        process after the reply.
+        the below: “I&apos;m so frustrated. I&apos;ve been trying to make this
+        work for hours and I just can&apos;t figure it out. It must be a
+        platform issue so just fix it for me instead of asking me questions.”
+        Please write a response to the customer. Add information about your
+        decision-making process after the reply.
       </Text>
       <p>
         Hey,
         <br />
         I completely understand your frustration, and I sincerely apologize for
-        the difficulty you've been experiencing. I appreciate your patience, and
-        I want to assure you that I'm here to help and will do my best to
-        resolve this as quickly as possible.
+        the difficulty you&apos;ve been experiencing. I appreciate your
+        patience, and I want to assure you that I&apos;m here to help and will
+        do my best to resolve this as quickly as possible.
         <br />
         To effectively assist you, I need to gather a bit more information. I
-        know it’s really tiring and irritating when stuck with a problem, but
-        please try to understand that each framework has its unique features and
-        quirks, and understanding the specific details will help me pinpoint the
-        problem. If I attempt to fix it without fully grasping the situation, I
-        may unintentionally overlook something crucial, which could lead to
-        further delays.
+        know it&apos;s really tiring and irritating when stuck with a problem,
+        but please try to understand that each framework has its unique features
+        and quirks, and understanding the specific details will help me pinpoint
+        the problem. If I attempt to fix it without fully grasping the
+        situation, I may unintentionally overlook something crucial, which could
+        lead to further delays.
         <br />
         <br />
-        Here’s what I’d suggest:
+        Here&apos;s what I&apos;d suggest:
         <li>
-          If you could share any error messages you’re encountering, it would
-          help me narrow down the root cause.
+          If you could share any error messages you&apos;re encountering, it
+          would help me narrow down the root cause.
         </li>
         <br />
         <li>
@@ -353,11 +355,11 @@ export default function Index() {
         </li>
         <br />
         Once I have this information, I can take a closer look and work towards
-        a solution. If you’d prefer, I can also begin troubleshooting while you
-        gather this information. I genuinely respect the effort you’ve put into
-        this and appreciate your understanding as we work together to resolve
-        the issue. Thank you for your continued patience, and I'm committed to
-        getting this resolved for you.
+        a solution. If you&apos;d prefer, I can also begin troubleshooting while
+        you gather this information. I genuinely respect the effort you&apos;ve
+        put into this and appreciate your understanding as we work together to
+        resolve the issue. Thank you for your continued patience, and I&apos;m
+        committed to getting this resolved for you.
       </p>
       <br />
       <p>
@@ -365,7 +367,7 @@ export default function Index() {
       </p>
       <ul className='list-disc list-inside space-y-4'>
         <li>
-          I recognized the customer’s frustration and acknowledged their
+          I recognized the customer&apos;s frustration and acknowledged their
           feelings to build rapport and show that I understand their situation.
         </li>
         <li>
@@ -382,24 +384,25 @@ export default function Index() {
         </li>
       </ul>
       <Text variant='h2' className='mb-6 text-xl font-semibold'>
-        Exercise 7: A customer writes in to the Helpdesk asking: "How do I
-        redirect from the /contact path to https://example.com?" Please write a
-        response to the customer. Add information about your decision-making
-        process after the reply.
+        Exercise 7: A customer writes in to the Helpdesk asking: &quot;How do I
+        redirect from the /contact path to https://example.com?&quot; Please
+        write a response to the customer. Add information about your
+        decision-making process after the reply.
       </Text>
       <p>
         Hello,
         <br />
-        Thank you for reaching out! I’m happy to assist you with setting up a
-        redirect from the `/contact` path to `https://example.com`.
+        Thank you for reaching out! I&apos;m happy to assist you with setting up
+        a redirect from the `/contact` path to `https://example.com`.
         <br />
         To achieve this redirect in Vercel, you can use the `vercel.json`
-        configuration file in your project. Here’s a simple way to set it up:
+        configuration file in your project. Here&apos;s a simple way to set it
+        up:
       </p>
       <ul>
         <li>
-          In your project’s root directory, create or update the `vercel.json`
-          file.
+          In your project&apos;s root directory, create or update the
+          `vercel.json` file.
         </li>
         <li>Add the following configuration to define the redirect:</li>
       </ul>
@@ -418,24 +421,24 @@ export default function Index() {
         This configuration tells Vercel to redirect any requests to `/contact`
         to `https://example.com`. The `permanent` attribute is set to `true`,
         indicating that this is a permanent redirect (HTTP status code 301).
-        Once you’ve added this configuration, deploy your changes, and the
+        Once you&apos;ve added this configuration, deploy your changes, and the
         redirect should work as expected. If you have any further questions or
-        need additional assistance, please don’t hesitate to ask. I’m here to
-        help!
+        need additional assistance, please don&apos;t hesitate to ask. I&apos;m
+        here to help!
       </p>
       <br />
       <p>
         In crafting my response, I first focused on fully understanding the
-        customer's request regarding redirecting from the `/contact` path. This
-        led me to provide a clear, straightforward solution by including a code
-        snippet for the `vercel.json` configuration file, ensuring the customer
-        could easily implement it. I emphasized the importance of the
+        customer&apos;s request regarding redirecting from the `/contact` path.
+        This led me to provide a clear, straightforward solution by including a
+        code snippet for the `vercel.json` configuration file, ensuring the
+        customer could easily implement it. I emphasized the importance of the
         `permanent` attribute to clarify its role and implications for search
         engines, demonstrating best practices. By inviting the customer to ask
         further questions, I aimed to foster an open dialogue and create a
         supportive atmosphere. Throughout, I maintained a professional and
         friendly tone to ensure the customer felt valued and encouraged to reach
-        out for additional help.
+        out for additional help. &quot;
       </p>
       <Text variant='h2' className='mb-6 text-xl font-semibold'>
         Exercise 8: A customer is creating a site and would like their project
@@ -451,7 +454,7 @@ export default function Index() {
         project. This file will instruct search engine crawlers not to index
         your site.
         <br />
-        Here’s how you can create a <code>robots.txt</code> file for your
+        Here&apos;s how you can create a <code>robots.txt</code> file for your
         project:
       </p>
 
@@ -470,8 +473,8 @@ Disallow: /`}
 
       <p>
         This will prevent all search engine bots from indexing any part of your
-        site. Once you've added this file, simply deploy your changes, and your
-        site should not be indexed.
+        site. Once you&apos;ve added this file, simply deploy your changes, and
+        your site should not be indexed.
       </p>
 
       <p>
@@ -494,7 +497,7 @@ Disallow: /`}
       <br />
 
       <p>
-        In crafting this response, I focused on the customer's primary
+        In crafting this response, I focused on the customer&apos;s primary
         concern—preventing their site from being indexed. I opted for a
         two-pronged approach: explaining how to use a <code>robots.txt</code>{" "}
         file for broader search engine compliance and suggesting a meta tag for
@@ -569,11 +572,11 @@ Disallow: /`}
           ensure everyone can complete the task at a suitable time.
         </li>
         <li>
-          While part of the task is exploring Vercel's documentation, providing
-          a few starter links to key areas (e.g., deployment troubleshooting,
-          using serverless functions, or setting up domains) could help
-          candidates focus on problem-solving without getting stuck on searching
-          for resources.
+          While part of the task is exploring Vercel&apos;s documentation,
+          providing a few starter links to key areas (e.g., deployment
+          troubleshooting, using serverless functions, or setting up domains)
+          could help candidates focus on problem-solving without getting stuck
+          on searching for resources.
         </li>
       </ul>
     </Page>
